@@ -1,0 +1,10 @@
+lect1,0000
+lect2,0000
+lect3,0000
+lect4,0000
+lect5,0000
+lect6,0000
+lect7,0000
+lect8,0000
+lect9,0000
+lect10,0000
