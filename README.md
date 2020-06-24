@@ -1,5 +1,5 @@
 # Center-Management-System
-![메인화면](https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo){:width="100px" height="100px"}
+![메인화면](https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo){:width="100%" height="100%"}
 
 ### 👋 Introduction
 
@@ -60,7 +60,7 @@
 <table>
     <tr>
         <th width="16%">업무 / 구성원</th>
-        <th width="14%">한시연</th><th width="14%">홍준표</th><th width="14%">장정우</th><th width="14%">유민정</th><th width="14%">최현동</th>
+        <th width="14%">한시연</th><th width="14%">홍준표</th><th width="14%">장정우</th><th width="14%">유민정</th><th     width="14%">최현동</th>
     </tr>
     <tr>
         <th>프로젝트 기획</th>
@@ -85,7 +85,6 @@
         <th>비회원,통합</th>
         <th>관리자,선생님</th>
         <th>관리자,선생님</th>
-    </tr>
     <tr>
        <th>소스(코딩)</th>
         <th>관리자, 수강생, 비회원 <br>1:1문의 기능, <br>강사모드(전체), <br>관리자(강사관리), <br>더미 파일 작성(강사)</th>
