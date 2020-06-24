@@ -1,6 +1,6 @@
 # Center-Management-System
 
-<img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="100px" height="100px">
+<center><img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="300px" height="300px"></center>
 ### 👋 Introduction
 
 <table>
