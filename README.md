@@ -45,13 +45,13 @@
 
 콘솔로 구현한 회원 관리 시스템 입니다.
 
- ### 👋 Member
+ ### 👋 Administrator
  ![관리자](https://user-images.githubusercontent.com/55887059/85264640-f0c3ea00-b4ab-11ea-8ae0-619e426a167b.gif)
- ### 👋 NonMember
+ ### 👋 Teacher
  ![선생님](https://user-images.githubusercontent.com/55887059/85264645-f3264400-b4ab-11ea-99d2-b6707daac085.gif)
- ### 👋 StoreManager
+ ### 👋 Member
 ![회원](https://user-images.githubusercontent.com/55887059/85264661-f6b9cb00-b4ab-11ea-9742-63dd97a155a9.gif)
-### 👋 SystemManager
+### 👋 Nonmember
 ![비회원](https://user-images.githubusercontent.com/55887059/85264650-f4577100-b4ab-11ea-929e-c56be85e980e.gif)
 
 ### 📑 Role & Member
