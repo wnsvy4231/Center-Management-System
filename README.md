@@ -60,7 +60,7 @@
 <table>
     <tr>
         <th width="16%">업무 / 구성원</th>
-        <th width="14%">한시연</th><th width="14%">홍준표</th><th width="14%"></th><th width="14%">장정우</th><th width="14%">유민정</th><th width="14%">최현동</th>
+        <th width="14%">한시연</th><th width="14%">홍준표</th><th width="14%">장정우</th><th width="14%">유민정</th><th width="14%">최현동</th>
     </tr>
     <tr>
         <th>프로젝트 기획</th>
