@@ -3,7 +3,6 @@
 <center><img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="300px" height="300px"></center>
 ### 👋 Introduction
 
-
 <table>
     <tr>
         <th>프로젝트 명 </th>
@@ -43,8 +42,8 @@
 </table>
 
 ### 📼 Appearance
-
 콘솔로 구현한 회원 관리 시스템 입니다.
+
 <table>
     <tr>
         <th colspan="4">Task</th>
@@ -76,7 +75,8 @@
     </tr>
 </table>
 
-### 📑 Role & Member<table>
+### 📑 Role & Member
+<table>
     <tr>
         <th width="16%">업무 / 구성원</th>
         <th width="14%">한시연</th>
