@@ -133,3 +133,7 @@
         <th>관리자 부분 개발,<br> 의견제안,<br> 버그수정</th>
     </tr>
 </table>
+
+### :cherry_blossom: 스터디
+<img src="https://user-images.githubusercontent.com/66079830/85929451-f4160600-b8ef-11ea-8533-0d6a31159f2b.jpg" width="300px" height="300px>
+                                                                                                                                      
