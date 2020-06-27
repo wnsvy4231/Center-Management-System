@@ -1,39 +1,8 @@
 # Center-Management-System
 
 <center><img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="500px" height="500px"></center>
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
- <style>
-        /* 
-            웹 폰트, Web Font
-            1. 예전 방식
-                - *.eof
-            2. CSS3 웹 폰트 
-                - 서버로부터 폰트를 다운받아 현재 사이트 접속 중에만 임시로 사용 
-         */
-         /* 웹 폰트 선언 */
-        @font-face {
-            font-family: 'BM'; /*내가 정의하는 폰트명*/
-            src: url(../images/BMJUA_ttf.ttf)
-        }
-        @font-face { font-family: 'MapoDPPA'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff') format('woff'); font-weight: normal; font-style: normal; }
-        /* 한글은 눈누 영어: 구글 웹폰트 */
-        body{
-            /* font-family: 'BM'; */
-            /* font-family: 'Cute Font', cursive; */
-            font-family: 'MapoDPPA';
-        }
-    </style>
-    <link href="https://fonts.googleapis.com/css2?family=Cute+Font&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff'" rel="stylesheet">
-</head>     
+    
 ### 👋 Introduction
-<body>
 <table>
     <tr>
         <th>프로젝트 명 </th>
@@ -164,5 +133,3 @@
         <th>관리자 부분 개발,<br> 의견제안,<br> 버그수정</th>
     </tr>
 </table>
-</body>
-</html>
