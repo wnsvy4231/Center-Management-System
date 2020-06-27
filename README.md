@@ -1,8 +1,21 @@
 # Center-Management-System
 
 <center><img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="500px" height="500px"></center>
-### 👋 Introduction
 
+ @font-face {
+            font-family: 'BM'; /*내가 정의하는 폰트명*/
+            src: url(../images/BMJUA_ttf.ttf)
+        }
+        @font-face { font-family: 'MapoDPPA'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff') format('woff'); font-weight: normal; font-style: normal; }
+        /* 한글은 눈누 영어: 구글 웹폰트 */
+        body{
+            /* font-family: 'BM'; */
+            /* font-family: 'Cute Font', cursive; */
+            font-family: 'MapoDPPA';
+        }
+        
+### 👋 Introduction
+<body>
 <table>
     <tr>
         <th>프로젝트 명 </th>
@@ -133,3 +146,4 @@
         <th>관리자 부분 개발,<br> 의견제안,<br> 버그수정</th>
     </tr>
 </table>
+</body>
