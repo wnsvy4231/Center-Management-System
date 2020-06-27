@@ -44,15 +44,26 @@
 ### 📼 Appearance
 
 콘솔로 구현한 회원 관리 시스템 입니다.
-
- ### 👋 Administrator
- ![관리자](https://user-images.githubusercontent.com/66079830/85919479-5d712700-b8a6-11ea-9043-8ddb87532e19.gif)
- ### 👋 Teacher
- ![선생님](https://user-images.githubusercontent.com/66079830/85919538-e5efc780-b8a6-11ea-8422-4c1a38a741e0.gif)
- ### 👋 Member
-![수강생](https://user-images.githubusercontent.com/66079830/85919533-d07a9d80-b8a6-11ea-9a55-1b68ef6d5939.gif)
-### 👋 Nonmember
-![비회원](https://user-images.githubusercontent.com/66079830/85919534-d7091500-b8a6-11ea-85b3-149d091c8e5d.gif)
+<table>
+    <tr>
+        <th colspan="4">Task</th>
+    </tr>
+    <tr>
+        <th colspan="4"><img width="600" src="asset/sedu-center-task.png"></th>
+    </tr>
+    <tr>
+       <th>Admin</th>
+       <th>Teacher</th>
+       <th>Student</th>
+       <th>Nonmember</th>
+    </tr>
+    <tr>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919479-5d712700-b8a6-11ea-9043-8ddb87532e19.gif"></th>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919538-e5efc780-b8a6-11ea-8422-4c1a38a741e0.gif"></th>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919534-d7091500-b8a6-11ea-85b3-149d091c8e5d.gif"></th>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919534-d7091500-b8a6-11ea-85b3-149d091c8e5d.gif"></th>
+    </tr>
+</table>
 
 ### 📑 Role & Member
 
