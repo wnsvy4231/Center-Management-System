@@ -135,5 +135,6 @@
 </table>
 
 ### :cherry_blossom: 스터디
-<study><img src="https://user-images.githubusercontent.com/66079830/85929451-f4160600-b8ef-11ea-8533-0d6a31159f2b.jpg" width="300px" height="300px></study>
+
+<study><img src="https://user-images.githubusercontent.com/66079830/85929451-f4160600-b8ef-11ea-8533-0d6a31159f2b.jpg" width="300px" height="300px"></study>
                                                                                                                                       
