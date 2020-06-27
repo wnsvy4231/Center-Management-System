@@ -1,6 +1,6 @@
 # :lemon: Center-Management-System
 
-<center><img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="500px" height="500px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg" width="500px" height="500px"></center>
     
 ### 👋 Introduction
 <table>
