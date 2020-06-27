@@ -40,7 +40,9 @@
         <th colspan="3">Eclipse IDE</th>
     </tr>
 </table>
+### :cherry_blossom: 스터디
 
+<study><img src="https://user-images.githubusercontent.com/66079830/85929451-f4160600-b8ef-11ea-8533-0d6a31159f2b.jpg" width="300px" height="300px"></study>
 ### 📼 Appearance
 콘솔로 구현한 회원 관리 시스템 입니다.
 
@@ -134,7 +136,5 @@
     </tr>
 </table>
 
-### :cherry_blossom: 스터디
 
-<study><img src="https://user-images.githubusercontent.com/66079830/85929451-f4160600-b8ef-11ea-8533-0d6a31159f2b.jpg" width="300px" height="300px"></study>
                                                                                                                                       
