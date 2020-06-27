@@ -1,6 +1,13 @@
 # Center-Management-System
 
 <center><img src="https://yt3.ggpht.com/a/AGF-l78Py23XN9BqkJm2vB5bJs42Bkn82KSYicxCSg=s900-c-k-c0xffffffff-no-rj-mo" width="500px" height="500px"></center>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
  <style>
         /* 
             웹 폰트, Web Font
@@ -24,7 +31,7 @@
     </style>
     <link href="https://fonts.googleapis.com/css2?family=Cute+Font&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff'" rel="stylesheet">
-        
+</head>     
 ### 👋 Introduction
 <body>
 <table>
@@ -158,3 +165,4 @@
     </tr>
 </table>
 </body>
+</html>
