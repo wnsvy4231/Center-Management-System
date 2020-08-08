@@ -15,7 +15,7 @@
         <th>JAVA 콘솔 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 5명<br>
-            (<a href="https://github.com/prohwww">한시연</a>｜홍준표｜장정우｜유민정｜최현동 )
+            (한시연｜홍준표｜장정우｜유민정｜최현동 )
         </th>
     </tr>
     <tr>
